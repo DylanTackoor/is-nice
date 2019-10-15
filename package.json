@@ -1,0 +1,19 @@
+{
+	"name": "is-nice",
+	"version": "1.0.0",
+	"description": "Checks if input is noice",
+	"main": "index.js",
+	"author": "Dylan Tackoor",
+	"license": "ISC",
+	"homepage": "https://github.com/DylanTackoor/is-nice#readme",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DylanTackoor/is-nice.git"
+	},
+	"bugs": {
+		"url": "https://github.com/DylanTackoor/is-nice/issues"
+	}
+}
